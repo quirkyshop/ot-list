@@ -1,0 +1,23 @@
+{
+  "name": "sublime-ot-list",
+  "version": "1.0.0",
+  "description": "create type of ot-list(onetouch list component) *.json.config snippets, validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quirkyshop/ot-list.git"
+  },
+  "keywords": [
+    "snippets",
+    "validation"
+  ],
+  "author": "guishu.zc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quirkyshop/ot-list/issues"
+  },
+  "homepage": "https://github.com/quirkyshop/ot-list#readme"
+}
