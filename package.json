@@ -1,5 +1,5 @@
 {
-  "name": "sublime-ot-list",
+  "name": "ot-list-plugin",
   "version": "1.0.0",
   "description": "create type of ot-list(onetouch list component) *.json.config snippets, validation.",
   "main": "index.js",
