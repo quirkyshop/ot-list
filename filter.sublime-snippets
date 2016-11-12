@@ -1,0 +1,41 @@
+<snippet>
+    <content><![CDATA[
+
+filterConfig: [
+    {
+        "type": "input",
+        "name": "name",
+        "label": "姓名"
+    },
+    {
+        "type": "select",
+        "name": "status",
+        "label": "状态",
+        "dataSource": [
+            { "label": "完成", "value": "done"},
+            { "label": "未完成", "value": "undone"}       
+        ]
+    },
+    {
+        "type": "rangeInput",
+        "label": "金额范围",
+        "nameA": "amountBegin",
+        "nameB": "amountEnd",
+        "placeholderA": "最小金额",
+        "placeholderB": "最大金额"
+    },
+    {
+        "type": "rangeDatePicker",
+        "label": "时间",
+        "nameA": "riskTimeBegin",
+        "nameB": "riskTimeEnd",
+        "placeholderA": "起始时间",
+        "placeholderB": "终止时间",
+        "showTime": true
+    }
+]
+
+]]></content>
+    <tabTrigger>filter</tabTrigger>
+    <description>ot-list: filter config</description>
+</snippet>

@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0", 
+	"platforms": ["*"], 
+	"description": "you can use ot-list-plugin in sublime to create ot-list component instance json files, and validation so on.", 
+	"url": "https://github.com/quirkyshop/ot-list", 
+	"sublime_text": "*", 
+	"dependencies": []
+}
